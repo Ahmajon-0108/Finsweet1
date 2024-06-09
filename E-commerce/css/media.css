@@ -1,0 +1,16 @@
+
+
+@media (max-width:750px){
+      .nav__content-text{
+            display: none;
+      }
+      .bars{
+            display: block;
+            /* margin-right: -120px; */
+      }
+      .nav__content-logo svg{
+            /* margin-left: -120px; */
+      }
+      
+
+}
